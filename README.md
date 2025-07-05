@@ -7,8 +7,6 @@
 # **Navbar-1**: https://rahuldevshaha75.github.io/RESPONSIVE_NAVBAR/Navbar-1/
 # **Navbar-2**: https://rahuldevshaha75.github.io/RESPONSIVE_NAVBAR/Navbar-2/
 # **Navbar-3**:
-            # **Navbar-3**
-
 - [Way-1](https://rahuldevshaha75.github.io/RESPONSIVE_NAVBAR/Navbar-3/way-1/)  
   ↳ https://rahuldevshaha75.github.io/RESPONSIVE_NAVBAR/Navbar-3/way-1/
 
